@@ -1,7 +1,7 @@
 # Privacy Policy for Chakula Calculator
 
-**Effective Date:** November 14, 2024  
-**Last Updated:** November 14, 2024
+**Effective Date:** November 14, 2025  
+**Last Updated:** November 14, 2025
 
 ## Introduction
 
@@ -192,7 +192,7 @@ This Privacy Policy is designed to comply with:
 ---
 
 **Chakula Calculator Privacy Policy**  
-Version 1.0 | November 2024  
+Version 1.0 | November 2025  
 Made with ❤️ for food lovers and cultural preservation in Tanzania and East Africa
 
 Powered by Fred Herbert
