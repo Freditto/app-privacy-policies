@@ -1,7 +1,7 @@
 # Privacy Policy for Inkless
 
-**Effective Date:** December 17, 2024
-**Last Updated:** December 17, 2024
+**Effective Date:** December 17, 2025
+**Last Updated:** December 17, 2025
 
 ## Introduction
 
@@ -165,5 +165,5 @@ This Privacy Policy is designed to comply with:
 ---
 
 **Inkless Privacy Policy**
-Version 1.0 | December 2024
+Version 1.0 | December 2025
 Made with care by Freditto Bytecode in Tanzania
