@@ -1,19 +1,19 @@
-# Privacy Policy for Five Minutes Journal
+# Privacy Policy for Daily Reflect
 
 **Effective Date:** December 30, 2025
 **Last Updated:** December 30, 2025
 
 ## Introduction
 
-Five Minutes Journal ("we," "our," or "us") is committed to protecting the privacy and security of our users. This Privacy Policy explains how we collect, use, store, and protect your information when you use the Five Minutes Journal mobile application (the "App").
+Daily Reflect ("we," "our," or "us") is committed to protecting the privacy and security of our users. This Privacy Policy explains how we collect, use, store, and protect your information when you use the Daily Reflect mobile application (the "App").
 
-**Key Point: Five Minutes Journal is a personal journaling app that stores your journal entries locally on your device. Your journal entries, thoughts, and personal reflections never leave your device unless you choose to export them.**
+**Key Point: Daily Reflect is a personal journaling app that stores your journal entries locally on your device. Your journal entries, thoughts, and personal reflections never leave your device unless you choose to export them.**
 
 ## Information We Collect
 
 ### 1. Information You Provide Directly
 
-When you use Five Minutes Journal, you may voluntarily provide:
+When you use Daily Reflect, you may voluntarily provide:
 
 - **Journal Entries**: Your daily journal entries, including gratitude lists, intentions, and reflections
 - **Mood Data**: Your selected mood for each journal entry
@@ -89,7 +89,7 @@ Your journal entries are:
 
 ## Advertising
 
-Five Minutes Journal displays advertisements to support free features:
+Daily Reflect displays advertisements to support free features:
 
 - **Ad Provider**: Google AdMob
 - **Ad Types**: Banner ads and occasional interstitial ads
@@ -136,11 +136,11 @@ You have complete control over your data:
 
 ## Children's Privacy
 
-Five Minutes Journal is intended for general audiences. We do not knowingly collect personal information from children under 13. The app does not require registration or personal information to use.
+Daily Reflect is intended for general audiences. We do not knowingly collect personal information from children under 13. The app does not require registration or personal information to use.
 
 ## International Users
 
-Five Minutes Journal can be used worldwide. Your journal entries remain on your device regardless of your location.
+Daily Reflect can be used worldwide. Your journal entries remain on your device regardless of your location.
 
 ## Changes to This Privacy Policy
 
@@ -185,6 +185,6 @@ This Privacy Policy is designed to comply with:
 
 ---
 
-**Five Minutes Journal Privacy Policy**
+**Daily Reflect Privacy Policy**
 Version 1.0 | December 2025
 Made by Freditto Bytecode in Tanzania

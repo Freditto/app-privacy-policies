@@ -1,4 +1,4 @@
-# Delete Your Data - Five Minutes Journal
+# Delete Your Data - Daily Reflect
 
 ## How to Delete Your Data
 
@@ -6,7 +6,7 @@ All your journal entries and app data are stored **locally on your device**. You
 
 ### Delete All Data (In-App)
 
-1. Open **Five Minutes Journal**
+1. Open **Daily Reflect**
 2. Go to **Settings** (gear icon)
 3. Scroll to **Data & Storage**
 4. Tap **Clear All Data**
@@ -26,14 +26,14 @@ When you clear all data, the following is permanently removed:
 
 ### What Is NOT Stored
 
-Five Minutes Journal does **not** store any data on external servers. Your journal entries never leave your device.
+Daily Reflect does **not** store any data on external servers. Your journal entries never leave your device.
 
 ### Alternative: Uninstall the App
 
 You can also delete all data by uninstalling the app from your device:
 
 **Android:**
-1. Long-press the Five Minutes Journal app icon
+1. Long-press the Daily Reflect app icon
 2. Select "Uninstall" or drag to "Uninstall"
 3. Confirm the uninstall
 
@@ -53,5 +53,5 @@ If you have questions about data deletion:
 
 ---
 
-**Five Minutes Journal**
+**Daily Reflect**
 Made by Freditto Bytecode
